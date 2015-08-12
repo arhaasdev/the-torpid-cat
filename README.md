@@ -1,2 +1,2 @@
 # the-torpid-cat
-A collaborative exploration of Javascript featuring a padawan learner @Edulis8 and a js neophyte @arhaasdev.
+A collaborative exploration of ECMAscript with @edulis8, a padawan learner, and @arhaasdev
